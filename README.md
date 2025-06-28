@@ -37,7 +37,7 @@ This repository contains lab assignments and projects for **COE528**, centered o
 ## 🛠️ Tools & Technologies
 
 - **Language:** Java  
-- **IDE:** NetBeans 16.0 (with provided usage notes)  
+- **IDE:** NetBeans 16.0   
 - **Testing:** JUnit  
 - **Modeling:** UML class and sequence diagrams  
 - **Version Control:** Git  
