@@ -65,4 +65,5 @@ This repository contains lab assignments and projects for **COE528**, centered o
 - Implemented and validated code with test-driven development  
 - Integrated modular components into cohesive systems  
 
-
+---
+© 2023 Hamza Malik
